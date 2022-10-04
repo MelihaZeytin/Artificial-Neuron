@@ -1,0 +1,14 @@
+C:\Users\AYSEN\source\repos\Proje1.2\Proje1.2\obj\Debug\Proje1.2.csproj.AssemblyReference.cache
+C:\Users\AYSEN\source\repos\Proje1.2\Proje1.2\obj\Debug\Proje1.2.csproj.CoreCompileInputs.cache
+C:\Users\AYSEN\source\repos\Proje1.2\Proje1.2\bin\Debug\Proje1.2.exe.config
+C:\Users\AYSEN\source\repos\Proje1.2\Proje1.2\bin\Debug\Proje1.2.exe
+C:\Users\AYSEN\source\repos\Proje1.2\Proje1.2\bin\Debug\Proje1.2.pdb
+C:\Users\AYSEN\source\repos\Proje1.2\Proje1.2\obj\Debug\Proje1.2.exe
+C:\Users\AYSEN\source\repos\Proje1.2\Proje1.2\obj\Debug\Proje1.2.pdb
+C:\Users\AYSEN\Desktop\05190000117_AysenBayir_05190000090_MelihaZeytin\Proje1.2\Proje1.2\bin\Debug\Proje1.2.exe.config
+C:\Users\AYSEN\Desktop\05190000117_AysenBayir_05190000090_MelihaZeytin\Proje1.2\Proje1.2\bin\Debug\Proje1.2.exe
+C:\Users\AYSEN\Desktop\05190000117_AysenBayir_05190000090_MelihaZeytin\Proje1.2\Proje1.2\bin\Debug\Proje1.2.pdb
+C:\Users\AYSEN\Desktop\05190000117_AysenBayir_05190000090_MelihaZeytin\Proje1.2\Proje1.2\obj\Debug\Proje1.2.csproj.AssemblyReference.cache
+C:\Users\AYSEN\Desktop\05190000117_AysenBayir_05190000090_MelihaZeytin\Proje1.2\Proje1.2\obj\Debug\Proje1.2.csproj.CoreCompileInputs.cache
+C:\Users\AYSEN\Desktop\05190000117_AysenBayir_05190000090_MelihaZeytin\Proje1.2\Proje1.2\obj\Debug\Proje1.2.exe
+C:\Users\AYSEN\Desktop\05190000117_AysenBayir_05190000090_MelihaZeytin\Proje1.2\Proje1.2\obj\Debug\Proje1.2.pdb
